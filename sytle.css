@@ -1,0 +1,26 @@
+body {
+    background-color: #1e1e1e;
+    color: #f0f0f0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 20px;
+}
+
+.video-container {
+    margin: 20px auto;
+    max-width: 560px;
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.2);
+}
+
+#animateBox {
+    width: 100px;
+    height: 100px;
+    background-color: #4CAF50;
+    position: relative;
+    margin: 30px auto;
+    line-height: 100px;
+    color: white;
+    font-weight: bold;
+    border-radius: 10px;
+}
